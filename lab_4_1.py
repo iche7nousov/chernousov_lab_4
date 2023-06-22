@@ -7,6 +7,6 @@ def get_number_space(text):
         if i.isspace():
             n += 1
     print(f"Количество пробелов - {n}")
-    input("")
+
 if __name__ == "__main__":
     get_number_space(input("Введите текст: "))
