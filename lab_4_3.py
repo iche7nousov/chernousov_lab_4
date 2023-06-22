@@ -20,7 +20,6 @@ def text(t):
 
     s = ''.join(text_list)
     print(s)
-    input("")
 
 if __name__ == "__main__":
     text(input("Введите текст: "))
