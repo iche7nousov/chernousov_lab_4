@@ -1,6 +1,5 @@
-"""
-16. Дано предложение. Определить число пробелов в нем.
-"""
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 def get_number_space(text):
     n = 0
